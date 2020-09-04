@@ -1,505 +1,398 @@
 # python-script-to-get-covid-cases-of-indian-states
 
-
-
 |----------------------------------------------|
          Andaman and Nicobar Islands
 |----------------------------------------------|
-Confirmed Indian Cases ||        3223
+Confirmed Indian Cases  3223
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       2823
+Recovered Cases  2823
 |----------------------------------------------|
-Death Cases ||   48
+Death Cases 48
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Andhra Pradesh
 |----------------------------------------------|
-Confirmed Indian Cases ||        465730
+Confirmed Indian Cases  465730
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       358009
+Recovered Cases  358009
 |----------------------------------------------|
-Death Cases ||   4200
+Death Cases 4200
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Arunachal Pradesh
 |----------------------------------------------|
-Confirmed Indian Cases ||        4574
+Confirmed Indian Cases  4574
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       3167
+Recovered Cases  3167
 |----------------------------------------------|
-Death Cases ||   7
+Death Cases 7
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Assam
 |----------------------------------------------|
-Confirmed Indian Cases ||        118333
+Confirmed Indian Cases  118333
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       90700
+Recovered Cases  90700
 |----------------------------------------------|
-Death Cases ||   330
+Death Cases 330
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Bihar
 |----------------------------------------------|
-Confirmed Indian Cases ||        142967
+Confirmed Indian Cases  142967
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       124976
+Recovered Cases  124976
 |----------------------------------------------|
-Death Cases ||   672
+Death Cases 672
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Chandigarh
 |----------------------------------------------|
-Confirmed Indian Cases ||        5065
+Confirmed Indian Cases  5065
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       2883
+Recovered Cases  2883
 |----------------------------------------------|
-Death Cases ||   63
+Death Cases 63
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Chhattisgarh
 |----------------------------------------------|
-Confirmed Indian Cases ||        37967
+Confirmed Indian Cases  37967
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       18950
+Recovered Cases  18950
 |----------------------------------------------|
-Death Cases ||   315
+Death Cases 315
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Dadra and Nagar Haveli and Daman and Diu
 |----------------------------------------------|
-Confirmed Indian Cases ||        2450
+Confirmed Indian Cases  2450
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       2154
+Recovered Cases  2154
 |----------------------------------------------|
-Death Cases ||   2
+Death Cases 2
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Delhi
 |----------------------------------------------|
-Confirmed Indian Cases ||        182305
+Confirmed Indian Cases  182305
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    1
+Confirmed Foreigners Cases  1
 |----------------------------------------------|
-Recovered Cases ||       160114
+Recovered Cases  160114
 |----------------------------------------------|
-Death Cases ||   4500
+Death Cases 4500
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Goa
 |----------------------------------------------|
-Confirmed Indian Cases ||        19354
+Confirmed Indian Cases  19354
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    1
+Confirmed Foreigners Cases  1
 |----------------------------------------------|
-Recovered Cases ||       14361
+Recovered Cases  14361
 |----------------------------------------------|
-Death Cases ||   212
+Death Cases 212
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Gujarat
 |----------------------------------------------|
-Confirmed Indian Cases ||        100212
+Confirmed Indian Cases  100212
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    1
+Confirmed Foreigners Cases  1
 |----------------------------------------------|
-Recovered Cases ||       81055
+Recovered Cases  81055
 |----------------------------------------------|
-Death Cases ||   3062
+Death Cases 3062
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Haryana
 |----------------------------------------------|
-Confirmed Indian Cases ||        70085
+Confirmed Indian Cases  70085
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    14
+Confirmed Foreigners Cases  14
 |----------------------------------------------|
-Recovered Cases ||       55889
+Recovered Cases  55889
 |----------------------------------------------|
-Death Cases ||   740
+Death Cases 740
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Himachal Pradesh
 |----------------------------------------------|
-Confirmed Indian Cases ||        6615
+Confirmed Indian Cases  6615
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       4859
+Recovered Cases  4859
 |----------------------------------------------|
-Death Cases ||   48
+Death Cases 48
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Jammu and Kashmir
 |----------------------------------------------|
-Confirmed Indian Cases ||        39943
+Confirmed Indian Cases  39943
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       30759
+Recovered Cases  30759
 |----------------------------------------------|
-Death Cases ||   743
+Death Cases 743
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Jharkhand
 |----------------------------------------------|
-Confirmed Indian Cases ||        46480
+Confirmed Indian Cases  46480
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       30886
+Recovered Cases  30886
 |----------------------------------------------|
-Death Cases ||   444
+Death Cases 444
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Karnataka
 |----------------------------------------------|
-Confirmed Indian Cases ||        370206
+Confirmed Indian Cases  370206
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       268035
+Recovered Cases  268035
 |----------------------------------------------|
-Death Cases ||   6054
+Death Cases 6054
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Kerala
 |----------------------------------------------|
-Confirmed Indian Cases ||        79617
+Confirmed Indian Cases  79617
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    8
+Confirmed Foreigners Cases  8
 |----------------------------------------------|
-Recovered Cases ||       57728
+Recovered Cases  57728
 |----------------------------------------------|
-Death Cases ||   315
+Death Cases 315
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Ladakh
 |----------------------------------------------|
-Confirmed Indian Cases ||        2840
+Confirmed Indian Cases  2840
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       2039
+Recovered Cases  2039
 |----------------------------------------------|
-Death Cases ||   35
+Death Cases 35
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Lakshadweep
 |----------------------------------------------|
-Confirmed Indian Cases ||        0
+Confirmed Indian Cases  0
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       0
+Recovered Cases  0
 |----------------------------------------------|
-Death Cases ||   0
+Death Cases 0
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Madhya Pradesh
 |----------------------------------------------|
-Confirmed Indian Cases ||        68586
+Confirmed Indian Cases  68586
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       52215
+Recovered Cases  52215
 |----------------------------------------------|
-Death Cases ||   1483
+Death Cases 1483
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Maharashtra
 |----------------------------------------------|
-Confirmed Indian Cases ||        843841
+Confirmed Indian Cases  843841
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    3
+Confirmed Foreigners Cases  3
 |----------------------------------------------|
-Recovered Cases ||       612484
+Recovered Cases  612484
 |----------------------------------------------|
-Death Cases ||   25586
+Death Cases 25586
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Manipur
 |----------------------------------------------|
-Confirmed Indian Cases ||        6609
+Confirmed Indian Cases  6609
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       4774
+Recovered Cases  4774
 |----------------------------------------------|
-Death Cases ||   32
+Death Cases 32
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Meghalaya
 |----------------------------------------------|
-Confirmed Indian Cases ||        2626
+Confirmed Indian Cases  2626
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       1393
+Recovered Cases  1393
 |----------------------------------------------|
-Death Cases ||   13
+Death Cases 13
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Mizoram
 |----------------------------------------------|
-Confirmed Indian Cases ||        1040
+Confirmed Indian Cases  1040
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       671
+Recovered Cases  671
 |----------------------------------------------|
-Death Cases ||   0
+Death Cases 0
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Nagaland
 |----------------------------------------------|
-Confirmed Indian Cases ||        4066
+Confirmed Indian Cases  4066
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       3324
+Recovered Cases  3324
 |----------------------------------------------|
-Death Cases ||   9
+Death Cases 9
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Odisha
 |----------------------------------------------|
-Confirmed Indian Cases ||        113411
+Confirmed Indian Cases  113411
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       87351
+Recovered Cases  87351
 |----------------------------------------------|
-Death Cases ||   522
+Death Cases 522
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Puducherry
 |----------------------------------------------|
-Confirmed Indian Cases ||        15581
+Confirmed Indian Cases  15581
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       10279
+Recovered Cases  10279
 |----------------------------------------------|
-Death Cases ||   260
+Death Cases 260
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Punjab
 |----------------------------------------------|
-Confirmed Indian Cases ||        58515
+Confirmed Indian Cases  58515
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       41271
+Recovered Cases  41271
 |----------------------------------------------|
-Death Cases ||   1690
+Death Cases 1690
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Rajasthan
 |----------------------------------------------|
-Confirmed Indian Cases ||        86225
+Confirmed Indian Cases  86225
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    2
+Confirmed Foreigners Cases  2
 |----------------------------------------------|
-Recovered Cases ||       71220
+Recovered Cases  71220
 |----------------------------------------------|
-Death Cases ||   1095
+Death Cases 1095
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Sikkim
 |----------------------------------------------|
-Confirmed Indian Cases ||        1738
+Confirmed Indian Cases  1738
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       1304
+Recovered Cases  1304
 |----------------------------------------------|
-Death Cases ||   4
+Death Cases 4
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Tamil Nadu
 |----------------------------------------------|
-Confirmed Indian Cases ||        445845
+Confirmed Indian Cases  445845
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    6
+Confirmed Foreigners Cases  6
 |----------------------------------------------|
-Recovered Cases ||       386173
+Recovered Cases  386173
 |----------------------------------------------|
-Death Cases ||   7608
+Death Cases 7608
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Telengana
 |----------------------------------------------|
-Confirmed Indian Cases ||        135874
+Confirmed Indian Cases  135874
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    10
+Confirmed Foreigners Cases  10
 |----------------------------------------------|
-Recovered Cases ||       102024
+Recovered Cases  102024
 |----------------------------------------------|
-Death Cases ||   866
+Death Cases 866
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Tripura
 |----------------------------------------------|
-Confirmed Indian Cases ||        13816
+Confirmed Indian Cases  13816
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       8212
+Recovered Cases  8212
 |----------------------------------------------|
-Death Cases ||   129
+Death Cases 129
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Uttarakhand
 |----------------------------------------------|
-Confirmed Indian Cases ||        22179
+Confirmed Indian Cases  22179
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    1
+Confirmed Foreigners Cases  1
 |----------------------------------------------|
-Recovered Cases ||       15009
+Recovered Cases  15009
 |----------------------------------------------|
-Death Cases ||   300
+Death Cases 300
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          Uttar Pradesh
 |----------------------------------------------|
-Confirmed Indian Cases ||        247100
+Confirmed Indian Cases  247100
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    1
+Confirmed Foreigners Cases  1
 |----------------------------------------------|
-Recovered Cases ||       185812
+Recovered Cases  185812
 |----------------------------------------------|
-Death Cases ||   3691
+Death Cases 3691
 |----------------------------------------------|
-
-
-
 |----------------------------------------------|
          West Bengal
 |----------------------------------------------|
-Confirmed Indian Cases ||        171681
+Confirmed Indian Cases  171681
 |----------------------------------------------|
-Confirmed Foreigners Cases ||    0
+Confirmed Foreigners Cases  0
 |----------------------------------------------|
-Recovered Cases ||       144248
+Recovered Cases  144248
 |----------------------------------------------|
-Death Cases ||   3394
+Death Cases 3394
 |----------------------------------------------|
